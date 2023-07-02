@@ -1,0 +1,11 @@
+# Javascript node_modules
+node_modules/
+
+# ARtifacts
+artifacts/
+
+# Cache
+cache/
+
+# API keys
+.env
